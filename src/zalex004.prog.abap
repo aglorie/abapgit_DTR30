@@ -6,3 +6,5 @@
 REPORT ZALEX004.
 
 write:/'koekoek'.
+
+write:/'dit is een aanpassing in GitHub'.
