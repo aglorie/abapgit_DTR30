@@ -14,3 +14,5 @@ write:/ 'terug in ABAP Elcips aangepast'.
 write:/ 'en nu terug in gitHub'.
 
 write:/ 'joepie aangepast met de GitHub Desktop versie'.
+
+write:/'het is weg !!!'.
