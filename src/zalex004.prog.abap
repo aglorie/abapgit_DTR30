@@ -16,3 +16,5 @@ write:/ 'en nu terug in gitHub'.
 write:/ 'joepie aangepast met de GitHub Desktop versie'.
 
 write:/'het is weg !!!'.
+
+write:/'test van Alex in GitHub'.
