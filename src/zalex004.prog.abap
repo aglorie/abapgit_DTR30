@@ -18,3 +18,5 @@ write:/ 'joepie aangepast met de GitHub Desktop versie'.
 write:/'het is weg !!!'.
 
 write:/'test van Alex in GitHub'.
+
+write:/ 'en nu in Eclisp'.
