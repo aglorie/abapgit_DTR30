@@ -20,3 +20,4 @@ write:/'het is weg !!!'.
 write:/'test van Alex in GitHub'.
 
 write:/ 'en nu in Eclisp'.
+write:/ 'aangepast in GitHub !!!'.
